@@ -29,6 +29,10 @@
     * Closed
         * None
 * Deadline: March 28 (SC'18)
+* Setup weekly call with Travis
+    * Status of experiments
+    * Check if any blocking issues
+    * Iterations on the science sections of the paper
 
 ### IPDPS
 
