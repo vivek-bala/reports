@@ -25,7 +25,6 @@
           to go through [this](https://github.com/common-workflow-language/common-workflow-language/wiki/Existing-Workflow-systems) list.
         * EnTK (section 6) - Description of API exposed to user and which 
           component performs which operation of the adaptation loop.
-
 * Deadline: March 28 (SC'18)
 
 ### IPDPS
@@ -38,7 +37,6 @@
         * PhD Forum
             * Working on draft of Statement of Interest
             * Pending work on poster
-
 * Deadline: 
     * Feb 28 for camera ready paper
     * Feb 15 for PhD Forum (Feb 4 internal deadline for draft)
@@ -47,7 +45,6 @@
 ### EnTK
 
 * [Status](https://github.com/radical-cybertools/radical.entk/projects/2)
-
     * Closed issues
         * Added notion of session in EnTK
         * Multiple trivial issues resolved, closed old issues.
@@ -55,9 +52,8 @@
         * Release of 0.6 in Feb 3rd week
         * Termination issue #199 and testing critical issue for the release
         * Other issues are straight-forward
-
 * Deadline:
-    * Planned for week of Feb 19
+    * Release planned for week of Feb 19
 
 ### Other
 
